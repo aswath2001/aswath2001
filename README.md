@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello,I am Aswath Narayan S 👋
 
 <!--
 **aswath2001/aswath2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My GitHub Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=aswath2001&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
