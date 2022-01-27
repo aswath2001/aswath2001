@@ -70,8 +70,3 @@ Here are some ideas to get you started:
   <img align="left" alt="Aswath Narayan's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 
-
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswath2001&layout=compact&theme=gotham&hide_border=true&langs_count=10)](https://github.com/aswath2001)
