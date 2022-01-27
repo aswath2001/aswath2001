@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Aswath Narayan 👋 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Hi, I'm Aswath Narayan ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
  I am a third year student at PSG College of Technology, Coimbatore, pursuing my Masters in Theoretical Computer Science.<br>
@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 ## ⚙ My Projects
 
 [![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=QuorumDB&show_icons=true&theme=dark)](https://github.com/aswath2001/QuorumDB)
-[![Predicting-Football-Results](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=Predicting-Football-Results&show_icons=true&theme=dark(https://github.com/aswath2001/Predicting-Football-Results
-)
+[![Predicting-Football-Results](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=Predicting-Football-Results&show_icons=true&theme=dark)](https://github.com/aswath2001/Predicting-Football-Results)
 
 
 ## 📚 My Skills
@@ -71,5 +70,7 @@ Here are some ideas to get you started:
 <a href="mailto:aswathnarayan87@gmail.com">
   <img align="left" alt="Aswath Narayan's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
+
+## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswath2001&layout=compact&theme=gotham&hide_border=true&langs_count=10)](https://github.com/aswath2001)
