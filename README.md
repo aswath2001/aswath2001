@@ -67,8 +67,10 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:aswathnarayan87@gmail.com">
-  <img align="left" alt="Aswath Narayan's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/><br>
+  <img align="left" alt="Aswath Narayan's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
+
+
 
 ## Top Languages
 
