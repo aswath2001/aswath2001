@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Skill](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Skill](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skill](https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=reactstrap&logoColor=white)
