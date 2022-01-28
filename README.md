@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <br>
 
 - 🔭 I’m currently working on ... React js, Express js, REST APIs and web projects. 🐱‍👤
-- ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
+- ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Movies 😻 
  <br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aswath2001.visitor-badge&style=flat-square&color=0088cc)<br>
