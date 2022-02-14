@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 [![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=QuorumDB&show_icons=true&theme=dark)](https://github.com/aswath2001/QuorumDB)
 [![Predicting-Football-Results](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=Predicting-Football-Results&show_icons=true&theme=dark)](https://github.com/aswath2001/Predicting-Football-Results)
+[![Cineflix](https://github-readme-stats.vercel.app/api/pin/?username=aswath2001&repo=Cineflix&show_icons=true&theme=dark)](https://github.com/aswath2001/Cineflix)
 
 
 ## 📚 My Skills
